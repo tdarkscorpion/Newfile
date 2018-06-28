@@ -1,11 +1,12 @@
 # Talisman
 talisman online clean server files
 
-And download ssh secure shell (this supprt file transfer too ) from http://www.wm.edu/offices/it/services/software/licensedsoftware/webeditingsftp/sshsecureshell/index.php
+And download ssh secure shell (this supprt file transfer too ) from
+``` https://it.wm.edu/software/public/ssh/sshsecureshellclient-3.2.9.exe ```
 William & Mary - SSH Secure Shell Client
 
 
-Buy VPS From https://www.vultr.com/?ref=7212876  
+Buy VPS From``` https://www.vultr.com/?ref=7212876 ``` 
 
 Get Ubuntu 14.04 32 bit then follw this instructions
 
